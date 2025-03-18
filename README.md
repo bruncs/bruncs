@@ -12,7 +12,7 @@ I've been building digital products across startups and enterprise environments.
 - Started coding in **2002**
 - Over 10 years of experience with **JavaScript** and over 8 with **[`TypeScript`]**
 - Willing to learn new things all the time, and work in teams
-- Always down to chat! Contact me on one of the platforms down below!
+- Always down to chat! Contact me on one of the platforms listed in my bio!
 
 <!--
 ## 🔭 Projects
