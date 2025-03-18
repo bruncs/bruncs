@@ -14,12 +14,6 @@ I've been building digital products across startups and enterprise environments.
 - Willing to learn new things all the time, and work in teams
 - Always down to chat! Contact me on one of the platforms down below!
 
-## 📫 How to reach me
-
-You can reach out to me on a multitude of platforms!
-
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : brcorsilv@gmail.com
-
 <!--
 ## 🔭 Projects
 
