@@ -10,7 +10,7 @@ I've been building digital products across startups and enterprise environments.
 
 - Self taught, full stack developer
 - Started coding in **2002**
-- Over 7 years of experience with **JavaScript** and over 6 with **[`TypeScript`]**
+- Over 10 years of experience with **JavaScript** and over 8 with **[`TypeScript`]**
 - Willing to learn new things all the time, and work in teams
 - Always down to chat! Contact me on one of the platforms down below!
 
