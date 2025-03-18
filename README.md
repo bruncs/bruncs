@@ -49,3 +49,13 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 
 
 ->
+
+<!----------------- LINKS --------------->
+[`TypeScript`]:          https://www.typescriptlang.org/
+[`Rust`]:                https://www.rust-lang.org/
+[`Go`]:                  https://golang.org
+[`React`]:               https://reactjs.org/
+[`Discord`]:             https://discord.com/
+[`my repositories`]:     https://github.com/bruncs?tab=repositories
+[Twitter]:               https://twitter.com/bruncs
+[Telegram]:              https://t.me/bruncs.
