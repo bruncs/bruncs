@@ -6,6 +6,7 @@ I'm a software engineer from Brazil!
 
 I've been building digital products across startups and enterprise environments. I've focused mainly on developing industrial and financial web applications, tackling the technical challenges each sector brings. Beyond development, I've spent 3+ years delivering technical training to teams of all sizes. I enjoy both solving complex problems and helping others level up their technical skills.
 
+<!--
 ### Key Notes ✍️
 
 - Self taught, full stack developer
@@ -14,7 +15,6 @@ I've been building digital products across startups and enterprise environments.
 - Willing to learn new things all the time, and work in teams
 - Always down to chat! Contact me on one of the platforms listed in my bio!
 
-<!--
 ## 🔭 Projects
 
 Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
